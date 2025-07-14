@@ -1,1 +1,1 @@
-# bubbles
+Time to make bubble sort program using typescript.
